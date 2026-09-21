@@ -1,1 +1,1 @@
-# hackathon_chat_with_pdf
+# ChatPDF
