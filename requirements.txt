@@ -1,0 +1,49 @@
+# Frontend
+streamlit
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+
+# Environment & configuration
+python-dotenv
+
+# Data validation
+pydantic
+email-validator
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langchain-qdrant
+
+# Mistral AI
+mistralai
+
+# Qdrant Cloud
+qdrant-client
+
+# Local Hugging Face / BGE embeddings
+sentence-transformers
+langchain-huggingface
+transformers
+torch
+
+# PDF processing
+PyPDF2
+PyMuPDF
+
+# OCR
+pytesseract
+Pillow
+
+# Authentication
+Werkzeug
+python-jose[cryptography]
+
+# Web Search
+tavily-python
